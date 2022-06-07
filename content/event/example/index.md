@@ -1,28 +1,28 @@
 ---
-title: Example Event
+title: Kick-off meeting
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Kick-off meeting
+# event_url: https://example.org
 
-location: Wowchemy HQ
+location: University of Lleida
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Alcalde Rovira Roure, 191
+  city: Lleida
+  region: Lleida
+  postcode: '25198'
+  country: Spain
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Kick-off meeting.
+abstract: "First plenary meeting of the project team held by our colegues from the University of Lleida at the ETSEA."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2022-01-13T13:00:00Z"
+# date_end: "2030-06-01T15:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-13T13:00:00Z"
 
 authors: []
 tags: []
@@ -30,8 +30,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+image: 
+  caption: 'team.jpg'
   focal_point: Right
 
 url_code: ""
@@ -54,10 +54,3 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.

@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: true
+headless: false
 weight: 20
 
-title: Latest News
+title: Recent activity
 subtitle:
 
 content:
-  count: 5
+  count: 0
   filters:
     author: ""
     category: ""

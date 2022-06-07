@@ -1,9 +1,15 @@
 ---
-title: "An example preprint / working paper"
+title: "Trajectories of Wildfire Behavior Under Climate Change. Can Forest Management Mitigate the Increasing Hazard?"
 authors:
+- Lauma E. Miezite
+- Aitor Ameztegui
+- Miquel De Cáceres
+- Lluís Coll
+- Alejandra Morán-Ordóñez
+- Cristina Vega-García
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2022-03-25T00:00:00Z"
+doi: "https://dx.doi.org/10.2139/ssrn.4068658"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,29 +21,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Journal of Environmental Management"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Mediterranean forests and fire regimes are closely intertwined. Global change is likely to alter both forest dynamics and wildfire activity, ultimately threatening the provision of ecosystem services and posing greater risks to society. In this paper we evaluate future wildfire behavior by coupling simulation models of forest dynamics, climate projections and wildfire hazard. To do so, we explore different forest management scenarios reflecting different narratives related to EU forestry (promotion of carbon stocks, reduction of water vulnerability, biomass production and business-as-usual) under the RCP 4.5 and RCP 8.5 climate pathways in the period 2020-2100.We used as a study model pure submediterranean Pinus nigra forests of central Catalonia (NE Spain). Forest dynamics were simulated from the 3rd National Forest Inventory (143 stands) using SORTIE-nd software. These simulations were performed based on climate projections under RCPs 4.5 and 8.5. The climate products were also used to estimate fuel moisture conditions (both live and dead) and wind speed. Fuel parameters and fire behavior were then simulated, selecting crown fire initiation potential and rate of spread as key indicators. The results revealed consistent trade-offs between forest dynamics, climate and wildfire. Despite the clear influence exerted by climate, forest management modulates fire behavior, resulting in different trends depending on the climatic pathway. In general, the maintenance of current practices would result in the highest rates of crown fire activity, while management for water vulnerability reduction is postulated as the best alternative to surmount the increasingly hazardous conditions envisaged in RCP 8.5. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://papers.ssrn.com/sol3/Delivery.cfm/ca25e2f0-2875-434e-9588-bee76d165c08-MECA.pdf?abstractid=4068658&mirid=1
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,4 +68,4 @@ projects:
 slides:
 ---
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
