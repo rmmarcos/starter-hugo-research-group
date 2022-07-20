@@ -16,3 +16,5 @@ The **core objective of FirePATHS** is to advance the understanding of the effec
 3. Evaluate the probability of occurrence of extreme fires.
 
 4. Determine the consequences of climate change and the scope of forest management proposals.
+
+Project PID2020-116556RA-I00 funded by MCIN/AEI /10.13039/501100011033  <img src="logo_aei.png" alt="funding" style="width:263px;height:100px;"> 
