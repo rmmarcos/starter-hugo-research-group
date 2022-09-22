@@ -17,8 +17,8 @@ publishDate: "2022-05-04"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: Third International Conference on Fire Behavior and RisK
-# publication_short: In ICFB2022
+publication: Third International Conference on Fire Behavior and RisK
+publication_short: In ICFB2022
 
 abstract: In recent years, the EU has implemented several firefighting-related policies to battle and reduce the negative impacts of wildfires. However, the changing environment constantly surprises us with extreme events that cause massive losses, specifically in the Mediterranean region. It has long been recognized that the Mediterranean cultural landscape is fire-prone, hence decision-makers see to it that responses and solutions are devoted at mitigating and reducing its negative effects. With the advocacy of a paradigm shift to coexist with fire, anticipation of fire incidents is the best approach partnered with comprehensive management. Various studies on wildfires provide geospatial insights and models to foresee fire occurrence, burning extent, success in initial attack, ignition probability, etc. This study aims to recognize and understand wildfire activity by forecasting the occurrence of extreme wildfire events in the near future. The approach is based on coupling ignition and escape models to climate (C3S) and land cover change (LUISA Platform) projections to outline the spatial distribution of wildfires up to 2050. We calibrated a series of binary regression models upon historical records of wildfire ignition in Catalonia (Northeast of Spain) using machine learning techniques under different land cover change and climate scenarios. Disaster risk reduction will be improved through this prediction by identifying wildfire management zones and prioritization of areas 
 
