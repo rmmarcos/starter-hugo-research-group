@@ -8,23 +8,23 @@ authors:
 - Alejandra Morán-Ordóñez
 - Cristina Vega-García
 - admin
-date: "2022-03-25T00:00:00Z"
-doi: "https://dx.doi.org/10.2139/ssrn.4068658"
+date: "2022-09-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.jenvman.2022.116134"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2012-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Environmental Management"
 publication_short: ""
 
-abstract: Mediterranean forests and fire regimes are closely intertwined. Global change is likely to alter both forest dynamics and wildfire activity, ultimately threatening the provision of ecosystem services and posing greater risks to society. In this paper we evaluate future wildfire behavior by coupling simulation models of forest dynamics, climate projections and wildfire hazard. To do so, we explore different forest management scenarios reflecting different narratives related to EU forestry (promotion of carbon stocks, reduction of water vulnerability, biomass production and business-as-usual) under the RCP 4.5 and RCP 8.5 climate pathways in the period 2020-2100.We used as a study model pure submediterranean Pinus nigra forests of central Catalonia (NE Spain). Forest dynamics were simulated from the 3rd National Forest Inventory (143 stands) using SORTIE-nd software. These simulations were performed based on climate projections under RCPs 4.5 and 8.5. The climate products were also used to estimate fuel moisture conditions (both live and dead) and wind speed. Fuel parameters and fire behavior were then simulated, selecting crown fire initiation potential and rate of spread as key indicators. The results revealed consistent trade-offs between forest dynamics, climate and wildfire. Despite the clear influence exerted by climate, forest management modulates fire behavior, resulting in different trends depending on the climatic pathway. In general, the maintenance of current practices would result in the highest rates of crown fire activity, while management for water vulnerability reduction is postulated as the best alternative to surmount the increasingly hazardous conditions envisaged in RCP 8.5. 
+abstract: Mediterranean forests and fire regimes are closely intertwined. Global change is likely to alter both forest dynamics and wildfire activity, ultimately threatening the provision of ecosystem services and posing greater risks to society. In this paper we evaluate future wildfire behavior by coupling climate projections with simulation models of forest dynamics and wildfire hazard. To do so, we explore different forest management scenarios reflecting different narratives related to EU forestry (promotion of carbon stocks, reduction of water vulnerability, biomass production and business-as-usual) under the RCP 4.5 and RCP 8.5 climate pathways in the period 2020–2100. We used as a study model pure submediterranean Pinus nigra forests of central Catalonia (NE Spain). Forest dynamics were simulated from the 3rd National Forest Inventory (143 stands) using SORTIE-nd software based on climate projections under RCPs 4.5 and 8.5. The climate products were also used to estimate fuel moisture conditions (both live and dead) and wind speed. Fuel parameters and fire behavior were then simulated, selecting crown fire initiation potential and rate of spread as key indicators. The results revealed consistent trade-offs between forest dynamics, climate and wildfire. Despite the clear influence exerted by climate, forest management modulates fire behavior, resulting in different trends depending on the climatic pathway. In general, the maintenance of current practices would result in the highest rates of crown fire activity, while management for water vulnerability reduction is postulated as the best alternative to surmount the increasingly hazardous conditions envisaged in RCP 8.5.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
