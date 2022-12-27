@@ -5,11 +5,11 @@ authors:
 - Bountouraby Balde
 - admin
 - Cristina Vega-García
-date: "2022-05-04"
-doi: ""
+date: "2022-09-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.jenvman.2022.116134"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-04"
+publishDate: "2012-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
