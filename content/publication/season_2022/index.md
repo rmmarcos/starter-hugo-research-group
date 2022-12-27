@@ -1,13 +1,15 @@
 ---
-title: "High-resolution modeling of lightning ignition likelihood in Spain"
+title: "Drivers and implications of the extreme 2022 wildfire season in Southwest Europe"
 authors:
 - admin
-- Pere Joan Gelabert Vadillo
-- Víctor Resco
-- Luís Torres
-- Jaime Ribalaygua
-- Cristina Vega-García
-date: "2022-05-04"
+- Àngel Cunill
+- Rodrigo Balaguer-Romano
+- Celso J. Coco Megía
+- Francisco Castañares
+- Paulo Fernandes
+- Víctor Resco de Dios
+
+date: "2023-05-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,15 +19,13 @@ publishDate: "2022-05-04"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # publication: Third International Conference on Fire Behavior and RisK
 # publication_short: In ICFB2022
 
-abstract: Lightning‐caused fires are comparatively rare in Europe, but they may affect remote forested areas and result in large‐scale burnings. One of the major hot-spots of lightning fires in Europe lies in Spain, with remarkable ignition counts in the northwest part of the country (el Bierzo) and along certain Mediterranean mountain ranges (Sistema Ibérico). These regions experience frequent thunderstorms and host dense vegetation communities that lead to high rates of natural fires (30% versus the 10% national average). Here we analyze a large and comprehensive record of hourly cloud-to-ground lightning strikes (>17,000,000), coupled with historical records of lightning fires (>11,000) to determine the biophysical controls (relief, fuel moisture and vegetation structure) and lightning characteristics (flash intensity, polarity and density of discharges) behind natural fires in Spain (2009-2015). The modeling approach combines machine learning techniques and high-resolution proxies (30 meters in vegetation height and elevation; 9 km in daily fuel moisture estimates) of the listed variables to train a predictive model encompassing mainland Spain. Relief features (elevation, topographic position index and relief curvature) were computed from the NASADEM global DEM. Tree height was retrieved from the Global Forest Canopy Height. The necessary weather-related inputs to calculate FMC were obtained from the C3S. We tested multiple configurations of strike-to-fire associations and resampling techniques to explore different binary response variables. The final model was subsequently applied to produce broad- (upscaling into 1km) and local-scale predictions of daily lightning fire likelihood. The model attains a good predictive performance with a median AUC of 0.82. Lightning-related ignitions triggered preferably under low dead (dFMC<8%) and moderate alive (DC >250) fuel moisture conditions. Lightning strikes with negative polarity were found to trigger fires more frequently when the average density of discharges is higher than 5 at higher altitudes, especially above 500 m.a.s.l.
-
-
+abstract: Wildfire is a common phenomenon in Mediterranean countries but the 2022 fire season has been extreme in southwest Europe (Portugal, Spain and France). Here we provide a preliminary but comprehensive analysis of 2022's wildfire season in southwest Europe. Burned area has exceeded the 2001-2021 median by a factor of 52 in some regions and large wildfires (>500 ha) started to occur in June-July, earlier than the traditional fire season. These anomalies were associated with record-breaking values of fuel dryness, atmospheric water demand and pyrometeorological conditions. Live fuel moisture content was below the historical minima for almost 50 % of the season in some regions. A few large wildfires were responsible for 82 % of the burned area and, in turn, 47 % of the area burned occurred in protected areas. Shrublands, transitional woodlands and conifer forests (but not eucalypt plantations) were the land cover types most affected by extreme fires. As climate change intensifies, we can expect such fire seasons to become the new normal in large parts of the continent, potentially leading to major negative impacts on rural economies. These results highlight the need for landscape level fuel management also in protected areas, to avoid fire-induced biodiversity losses and landscape scale degradation. Our results have important policy implications and indicate that fire prevention should be explicitly addressed within continental forest legislation and strategies.
 
 
 # Summary. An optional shortened abstract.
