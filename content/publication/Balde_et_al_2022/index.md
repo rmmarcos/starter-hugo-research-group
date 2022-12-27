@@ -15,13 +15,13 @@ publishDate: "2023-05-04"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: Third International Conference on Fire Behavior and RisK
-# publication_short: In ICFB2022
+publication: "Journal of Forestry Research"
+publication_short: ""
 
-abstract:
+abstract: xx
 
 
 
@@ -32,7 +32,7 @@ tags:
 - Wildfire emissions
 - Burn severity
 - Fuels
-featured: true
+featured: false
 
 links:
 # - name: Custom Link
