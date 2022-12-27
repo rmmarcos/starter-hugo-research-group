@@ -1,7 +1,7 @@
 ---
-title: Kick-off meeting
+title: 2nd plenary meeting
 
-event: Kick-off meeting
+event: 2nd plenary meeting
 # event_url: https://example.org
 
 location: University of Zaragoza
