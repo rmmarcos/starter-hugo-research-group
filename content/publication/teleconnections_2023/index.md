@@ -24,7 +24,7 @@ publishDate: "2023-01-26"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: Third International Conference on Fire Behavior and RisK
+publication: Nature Communications
 # publication_short: In ICFB2022
 
 abstract: Climate teleconnections (CT) remotely influence weather conditions in many regions on Earth, entailing changes in primary drivers of fire activity such as vegetation biomass accumulation and moisture. We reveal significant relationships between the main global CTs and burned area that vary across and within continents and biomes according to both synchronous and lagged signals, and marked regional patterns. Overall, CTs modulate 52.9% of global burned area, the Tropical North Atlantic mode being the most relevant CT. Here, we summarized the CT-fire relationships into a set of six global CT domains that are discussed by continent, considering the underlying mechanisms relating weather patterns and vegetation types with burned area across the different world’s biomes. Our findings highlight the regional CT-fire relationships worldwide, aiming to further support fire management and policy-making.
