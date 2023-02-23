@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Climate teleconnections modulate global burned area"
 authors:
 - Adrian Cardil
 - admin
