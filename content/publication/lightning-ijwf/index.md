@@ -8,11 +8,11 @@ authors:
 - Luís Torres
 - Jaime Ribalaygua
 - Cristina Vega-García
-date: "2022-12-26"
-doi: ""
+date: "2023-01-24"
+doi: "https://doi.org/10.1071/WF22123"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-04"
+publishDate: "2023-01-24"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,9 +24,7 @@ publication_types: ["2"]
 publication: "International Journal of Wildland Fire"
 publication_short: ""
 
-abstract: xx
-
-
+abstract: Background: Lightning is the most common origin of natural fires, being strongly linked to specific synoptic conditions associated with atmospheric instability, such as dry thunderstorms; dry fuels are required for ignition to take place and for subsequent propagation.Aims: The aim was to predict the daily probability of ignition by exploiting a large dataset of lightning and fire data to anticipate ignition over the entire Iberian Peninsula.Methods: We trained and tested a machine learning model using lightning strikes (>17þinspacemillion) in the period 2009–2015. For each lightning strike, we extracted information relating to fuel condition, structural features of vegetation, topography, and the specific characteristics of the strikes (polarity, intensity and flash density).Key results: Naturally triggered ignitions are typically initiated at higher elevations (above 1000þinspacem above sea level) under conditions of low dead fuel moisture (<10–13%) and moderate live moisture content (Drought Codeþinspace>þinspace300). Negative-polarity lightning strikes (−10þinspacekA) appear to trigger fires more frequently.Conclusions and implications: Our approach was able to provide ignition forecasts at multiple temporal and spatial scales, thus enhancing forest fire risk assessment systems.
 
 
 # Summary. An optional shortened abstract.

@@ -9,8 +9,8 @@ authors:
 - Paulo Fernandes
 - Víctor Resco de Dios
 
-date: "2023-05-04"
-doi: ""
+date: "2023-02-10"
+doi: "https://doi.org/10.1016/j.scitotenv.2022.160320"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-05-04"
