@@ -1,5 +1,5 @@
 ---
-title: "Modeling the daily probability of lightning-caused ignition in the Iberian Peninsula (accepted)"
+title: "Modeling the daily probability of lightning-caused ignition in the Iberian Peninsula"
 authors:
 - admin
 - Adrian Jiménez-Ruano
