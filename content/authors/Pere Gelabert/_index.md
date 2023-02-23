@@ -6,7 +6,7 @@ title: Pere Joan Gelabert Vadillo
 superuser: false
 
 # Role/position/tagline
-role: PhD candidate
+role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:

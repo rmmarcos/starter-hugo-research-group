@@ -1,7 +1,7 @@
 ---
 title: ""
 authors:
-- Adrián Cardil
+- Adrian Cardil
 - admin
 - Mario Tapia
 - Renaud Barbero
@@ -9,7 +9,7 @@ authors:
 - Cathelijne R. Stoof
 - Carlos Alberto Silva
 - Midhun Mohan
-- Sergio de-Miguel 
+- Sergio de Miguel 
 
 date: "2023-01-26"
 doi: "https://doi.org/10.1038/s41467-023-36052-8"
