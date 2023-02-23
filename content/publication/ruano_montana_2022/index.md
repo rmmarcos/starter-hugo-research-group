@@ -1,12 +1,11 @@
 ---
 title: "Spatial Predictions of Human and Natural-Caused Wildfire Likelihood across Montana (USA)"
 authors:
-- Adrian Jimenez-Ruano
+- Adrián Jiménez-Ruano
 - Matthew Jolly
 - Patrick Freeborn
 - Daniel Vega-Nieva
 - Carlos Briones-Herrera
-- Cristina Vega-García
 - admin
 date: "2022-09-01T00:00:00Z"
 doi: "https://doi.org/10.3390/f13081200"

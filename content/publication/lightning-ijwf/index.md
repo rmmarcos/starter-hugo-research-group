@@ -2,7 +2,7 @@
 title: "Modeling the daily probability of lightning-caused ignition in the Iberian Peninsula"
 authors:
 - admin
-- Adrian Jiménez-Ruano
+- Adrián Jiménez-Ruano
 - Pere Joan Gelabert Vadillo
 - Víctor Resco
 - Luís Torres
