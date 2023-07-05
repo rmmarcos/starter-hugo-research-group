@@ -28,21 +28,20 @@ interests:
 - Spatial planning and management of protected natural areas
 - Remote sensing (optical and LiDAR, UAV and satellite) and GIS
 
-  education:
-courses:
-- course: PhD in Geography
-institution: University of Zaragoza
-year: 1994
-- course: SITEL (Stage Interdisciplinaire de Télédétection) Diploma
-institution: Groupement pour le développement de la télédétection aérospatiale (GDTA-
-CNES, Toulouse)
-year: 1991
-- course: Postgraduate in Remote Sensing.
-institution: Universtiy of Valencia
-year: 1991
-- course: BSc in Geography
-institution: University of Zaragoza
-year: 1986
+education:
+  courses:
+  - course: PhD in Geography
+    institution: University of Zaragoza
+    year: 1994
+  - course: SITEL (Stage Interdisciplinaire de Télédétection) Diploma
+    institution: Groupement pour le développement de la télédétection aérospatiale (GDTA-CNES, Toulouse)
+    year: 1991
+  - course: Postgraduate in Remote Sensing.
+    institution: Universitiy of Valencia
+    year: 1991
+  - course: BSc in Geography
+    institution: University of Zaragoza
+    year: 1986
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
