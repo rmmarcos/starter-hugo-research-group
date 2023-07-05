@@ -20,24 +20,30 @@ organizations:
   url: "http://geoforest.unizar.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include remote sensing applications in forest characterization, wildfire severity and post-fire vegetation dynamics.
+bio: My research interests include forest fires, fire management, natural resources, protected
+natural areas, GIScience and remote sensing.
 
 interests:
-- Remote sensing
-- Land management
-- Wildfires
+- Risk assessment and management
+- Natural resources and Land Use/Land Cover dynamics
+- Spatial planning and management of protected natural areas
+- Remote sensing (optical and LiDAR, UAV and satellite) and GIS
 
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+  education:
+courses:
+- course: PhD in Geography
+institution: University of Zaragoza
+year: 1994
+- course: SITEL (Stage Interdisciplinaire de Télédétection) Diploma
+institution: Groupement pour le développement de la télédétection aérospatiale (GDTA-
+CNES, Toulouse)
+year: 1991
+- course: Postgraduate in Remote Sensing.
+institution: Universtiy of Valencia
+year: 1991
+- course: BSc in Geography
+institution: University of Zaragoza
+year: 1986
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,8 +51,17 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
-  link: 'mailto:delariva@unizar.es'
+icon_pack: fas
+link: &#39;mailto:delariva@unizar.es&#39;
+- icon: twitter
+icon_pack: fab
+link: https://twitter.com/JuandlRiva
+- icon: orcid
+icon_pack: ai
+link: http://orcid.org/0000-0003-2615-270X
+- icon: google-scholar
+icon_pack: ai
+link: https://scholar.google.es/citations?user=QXzrpYgAAAAJ&amp;hl=es
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -69,4 +84,6 @@ user_groups:
 - Researchers
 ---
 
-Professor of Geography at the Department of Geography and coordinator of the GEOFOREST Research group.
+Juan de la Riva is a professor and researcher at the Department of Geography and Land
+Management from the University of Zaragoza. His research interests include forest fires, fire
+management, natural resources, protected natural areas, GIScience and remote sensing.
