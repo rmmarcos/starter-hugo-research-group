@@ -20,8 +20,7 @@ organizations:
   url: "http://geoforest.unizar.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include forest fires, fire management, natural resources, protected
-natural areas, GIScience and remote sensing.
+bio: My research interests include forest fires, fire management, natural resources, protected natural areas, GIScience and remote sensing.
 
 interests:
 - Risk assessment and management
@@ -84,6 +83,4 @@ user_groups:
 - Researchers
 ---
 
-Juan de la Riva is a professor and researcher at the Department of Geography and Land
-Management from the University of Zaragoza. His research interests include forest fires, fire
-management, natural resources, protected natural areas, GIScience and remote sensing.
+Juan de la Riva is a professor and researcher at the Department of Geography and Land Management from the University of Zaragoza. His research interests include forest fires, fire management, natural resources, protected natural areas, GIScience and remote sensing.

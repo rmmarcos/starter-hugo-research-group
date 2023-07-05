@@ -17,7 +17,7 @@ abstract: "Second plenary meeting this time held in Zaragoza. Our friends Aitor 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-13T13:00:00Z"
+date: "2022-11-28T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
