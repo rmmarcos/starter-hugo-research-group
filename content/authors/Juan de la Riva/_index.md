@@ -48,18 +48,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-icon_pack: fas
-link: &#39;mailto:delariva@unizar.es&#39;
-- icon: twitter
-icon_pack: fab
-link: https://twitter.com/JuandlRiva
-- icon: orcid
-icon_pack: ai
-link: http://orcid.org/0000-0003-2615-270X
-- icon: google-scholar
-icon_pack: ai
-link: https://scholar.google.es/citations?user=QXzrpYgAAAAJ&amp;hl=es
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:delariva@unizar.es'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/JuandlRiva
+  - icon: orcid
+    icon_pack: ai
+    link: http://orcid.org/0000-0003-2615-270X
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.es/citations?user=QXzrpYgAAAAJ&amp;hl=es
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
