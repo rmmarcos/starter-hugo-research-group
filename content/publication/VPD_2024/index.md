@@ -36,7 +36,7 @@ featured: true
 
 links:
 # - name: Custom Link
-url: https://hcfm.shinyapps.io/shinyfmd
+# url: https://hcfm.shinyapps.io/shinyfmd
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
