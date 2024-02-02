@@ -1,35 +1,38 @@
 ---
-title: "Advancing new methods for creating fire-resilient communities in Mediterranean areas"
+title: "VPD-based models of dead fine fuel moisture provide best estimates in a global dataset"
 authors:
-- Fermín Alcasena
 - admin
-date: "2022-05-04"
-doi: ""
+- Víctor Resco de Dios
+- Angel Sil
+- Àngel Cunill
+- Paulo Fernandes
+
+
+date: "2024-03-01"
+doi: "https://doi.org/10.1016/j.agrformet.2023.109868"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-04"
+publishDate: "2024-03-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Third International Conference on Fire Behavior and RisK
-publication_short: In ICFB2022
+publication: "Agricultural and Forest Meteorology"
+# publication_short: In ICFB2022
 
-abstract: As the large fires threaten human assets in Mediterranean areas, creating fire-adapted communities became a core long-term goal to cope with extreme wildfires. In addition to early detection and risk monitoring tools, preemptive efforts are essential to reduce wildfire spread, prevent catastrophic losses, and help minimize casualties. However, despite extensive scientific development to predict potential fire impacts, the poor risk communication with landscape and urban planners is often a barrier to translating primary outcomes into operational projects. Comprehensive solutions for creating fire-adapted communities indeed require not only fuel reduction treatments but also civil protection and fire suppression considerations to facilitate a safe and effective response.In this study, we assembled modeled fire footprints and fire intensity grids with asset locations to generate a set of risk mitigation maps in a large fire-prone Mediterranean area. Previous modeling works showed strong capabilities for predicting future catastrophic fires, as well as containment probabilities, but the integration of landscape-scale management efforts, community protection plans, and strategic fire suppression opportunities is still incipient. First, we used observed ignitions and past fire perimeters to model initial attack success and containment probability. We then calibrated and implemented a fire modeling approach to replicate thousands of years or iterations assuming wildfire season extreme weather conditions. Finally, the results were merged and summarized to provide a set of maps to inform large-scale ongoing risk reduction programs. We present new ideas and geospatial data processing techniques that may facilitate the assimilation of modeled predictions within fire management plans to faster adapt to changing fire regimes. The methods developed in this study could be replicated in any of the southern European Union countries and other wildland-urban interface areas elsewhere.
- 
+abstract: Dead fine fuel moisture content (FM) is one of the most important determinants of fire behavior. Fire scientists have attempted to effectively estimate FM for nearly a century, but we are still lacking broad scale evaluations of the different approaches for prediction. Here we tackle this problem by taking advantage or a recently compiled global fire behavior database (BONFIRE) gathering 1603 records of 1h (i.e., <6 mm diameter or thickness) dead fuel moisture content from measurements before experimental fires. We compared the results of models routinely used by different agencies worldwide, empirical models, semi-mechanistic models and also non-linear and machine learning approaches based on either temperature and relative humidity or vapor pressure deficit (VPD). A semi-mechanistic model based on VPD showed the best performance across all FM ranges and a historical model developed in Australia (MK5) was additionally recommended for low fuel moisture estimations. We also observed significant differences in FM dynamics between vegetation types with FM in grasslands more responsive to changes in atmospheric dryness than woody ecosystems. The addition of computational complexity through machine learning is not recommended since the gain in model fit is small relative to the increase in complexity. Future research efforts should concentrate on predictions at low FM (<10 %) as this is the range most significant for fire behavior and where the poorest model performance was observed. Model predictions are available from https://hcfm.shinyapps.io/shinyfmd/.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Fire-adapted communities
-- Risk communication
-- WUI
+- Wildfire danger
+- Risk 
 featured: true
 
 links:

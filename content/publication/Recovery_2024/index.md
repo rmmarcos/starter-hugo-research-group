@@ -1,35 +1,41 @@
 ---
-title: "Advancing new methods for creating fire-resilient communities in Mediterranean areas"
+title: "An empirical assessment of the potential of post-fire recovery of tree-forest communities in Mediterranean environments"
 authors:
-- Fermín Alcasena
 - admin
-date: "2022-05-04"
-doi: ""
+- Juan de la Riva
+- Teresa Lamelas
+- Dario Domingo
+- Raúl Hoffrén
+- Paloma Ibarra
+
+
+date: "2024-01-01"
+doi: "https://doi.org/10.1016/j.foreco.2023.121587"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-04"
+publishDate: "2024-01-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Third International Conference on Fire Behavior and RisK
-publication_short: In ICFB2022
+publication: "Forest Ecology and Management"
+# publication_short: In ICFB2022
 
-abstract: As the large fires threaten human assets in Mediterranean areas, creating fire-adapted communities became a core long-term goal to cope with extreme wildfires. In addition to early detection and risk monitoring tools, preemptive efforts are essential to reduce wildfire spread, prevent catastrophic losses, and help minimize casualties. However, despite extensive scientific development to predict potential fire impacts, the poor risk communication with landscape and urban planners is often a barrier to translating primary outcomes into operational projects. Comprehensive solutions for creating fire-adapted communities indeed require not only fuel reduction treatments but also civil protection and fire suppression considerations to facilitate a safe and effective response.In this study, we assembled modeled fire footprints and fire intensity grids with asset locations to generate a set of risk mitigation maps in a large fire-prone Mediterranean area. Previous modeling works showed strong capabilities for predicting future catastrophic fires, as well as containment probabilities, but the integration of landscape-scale management efforts, community protection plans, and strategic fire suppression opportunities is still incipient. First, we used observed ignitions and past fire perimeters to model initial attack success and containment probability. We then calibrated and implemented a fire modeling approach to replicate thousands of years or iterations assuming wildfire season extreme weather conditions. Finally, the results were merged and summarized to provide a set of maps to inform large-scale ongoing risk reduction programs. We present new ideas and geospatial data processing techniques that may facilitate the assimilation of modeled predictions within fire management plans to faster adapt to changing fire regimes. The methods developed in this study could be replicated in any of the southern European Union countries and other wildland-urban interface areas elsewhere.
- 
+abstract: The accumulation of fuel and the homogenization of the landscape in Mediterranean forests are leading to an increasingly hazardous behavior of wildfires, fostering larger, more intense, severe, and frequent wildfires. The onset of climate change is intensifying this behavior, fostering the occurrence of extreme forest fires threatening the persistence of forest communities.
+
+In this study we present an assessment of the post-fire recovery potential of the most representative tree-forest communities affected by fire in Spain: Pinus halepensis, Pinus nigra, Pinus pinaster and Quercus ilex. A large database of field data collected during specific campaigns -carried out 25 years after the fire- is used in combination with remote sensing, forest inventory and geospatial data to build an empirical model capable of predicting the chances of recovery. The model, calibrated using Random Forest, combines information on burn severity (remote sensing estimates of the Composite Burn Index), local topography (slope and terrain aspect) and climatic data (mean values and trends of temperature and precipitation) to provide information on the degree of similarity (vegetation height, horizontal cover of the vegetation layer along vertical strata, aboveground biomass and species diversity) between the plots burned in the summer of 1994 and the unburned control. Overall, only 33 out of the 131 burned plots could be considered as recovered, that is, reaching a similar state to unburned stands in neighboring areas. Our results suggest a primary role played by burn severity (the higher the severity the lower the probability of recovery), but strongly modulated by local topographic features (higher probability of recovery on steep north-facing slopes). In turn, increasingly warm and wetter conditions increased the chance of recovery.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Fire-adapted communities
-- Risk communication
-- WUI
+- Wildfire danger
+- Risk 
 featured: true
 
 links:
