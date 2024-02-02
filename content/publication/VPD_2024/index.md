@@ -1,5 +1,5 @@
 ---
-title: "VPD-based models of dead fine fuel moisture provide best estimates in a global dataset"
+title: "VPD based models of dead fine fuel moisture provide best estimates in a global dataset"
 authors:
 - admin
 - Víctor Resco de Dios
