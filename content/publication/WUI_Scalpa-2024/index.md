@@ -5,7 +5,7 @@ authors:
 - Mario Elia
 - Marina D’Este
 - Michele Salis
-- Marcos Rodrigues
+- admin
 - Bachisio Arca
 - Pierpaolo Duce
 - Maria Antonella Francesca Fiori
