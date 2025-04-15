@@ -1,34 +1,29 @@
 ---
-title: Kick-off meeting
+title: FIREPATHS webmapping app
 
-event: Kick-off meeting
-# event_url: https://example.org
+event: FIREPATH webmapping app
+event_url: https://visor.firepaths.org/
 
-location: University of Lleida
+#location: Online meeting
 address:
-  street: Alcalde Rovira Roure, 191
-  city: Lleida
-  region: Lleida
-  postcode: '25198'
-  country: Spain
 
-summary: Kick-off meeting.
-abstract: "First plenary meeting of the project team held by our colegues from the University of Lleida at the ETSEA."
+summary: Online app published!
+abstract: "As the end of the project approaches, we are glad to announce the publication of our results viewer application."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-13T13:00:00Z"
+date: "2023-12-19T10:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-01-13T13:00:00Z"
+publishDate:  "2024-12-19T10:00:00Z"
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image: 
   caption: 'team.jpg'
