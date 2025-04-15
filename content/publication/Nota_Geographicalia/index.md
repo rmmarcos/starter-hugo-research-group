@@ -4,7 +4,8 @@ authors:
 - Marcos Rodrigues Mimbrero
 date: 2023-12-27
 publication: "Geographicalia"
-publication_types: ["3"]
+publication_types: ["0"]
+publication_short: "Research Letter"
 volume: "75"
 pages: "207–214"
 publisher: "Universidad de Zaragoza"
