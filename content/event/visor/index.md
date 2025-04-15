@@ -1,14 +1,14 @@
 ---
-title: 3rd plenary meeting
+title: FIREPATHS webmapping app
 
-event: 2nd plenary meeting
-# event_url: https://example.org
+event: FIREPATH webmapping app
+event_url: https://visor.firepaths.org/
 
 location: Online meeting
 address:
 
-summary: Third plenary meeting.
-abstract: "Third annual meeting to discuss the progress of the project."
+summary: Online app published!
+abstract: "As the end of the project approaches, we are glad to announce the publication of our results viewer application."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -17,13 +17,13 @@ date: "2023-12-19T10:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate:  "2023-12-19T10:00:00Z"
+publishDate:  "2024-12-19T10:00:00Z"
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image: 
   caption: 'team.jpg'
