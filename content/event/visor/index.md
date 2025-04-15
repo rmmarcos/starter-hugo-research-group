@@ -4,7 +4,7 @@ title: FIREPATHS webmapping app
 event: FIREPATH webmapping app
 event_url: https://visor.firepaths.org/
 
-location: Online meeting
+#location: Online meeting
 address:
 
 summary: Online app published!
