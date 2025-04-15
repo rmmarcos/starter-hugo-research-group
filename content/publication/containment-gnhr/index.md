@@ -1,14 +1,14 @@
 ---
-title: "Modeling the daily probability of lightning-caused ignition in the Iberian Peninsula"
+title: "A spatially explicit containment modelling approach for escaped wildfires in a Mediterranean climate using machine learning"
 authors:
 - Gbenga Lawrence Allawode
 - Pere Joan Gelabert Vadillo
 - admin
 date: "2025-01-11"
-doi: ""
+doi: "https://doi.org/10.1080/19475705.2024.2447514"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-24"
+publishDate: "2025-01-11"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ abstract: Wildfires are particularly prevalent in the Mediterranean, being expec
 
 tags:
 - Wildfire danger
-- Lightning
+- Containment
 - Risk 
 featured: true
 
