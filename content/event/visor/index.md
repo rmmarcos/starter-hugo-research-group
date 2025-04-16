@@ -26,7 +26,7 @@ tags: []
 featured: true
 
 image: 
-  caption: 'team.jpg'
+  caption: 'Application interface'
   focal_point: Right
 
 url_code: ""
