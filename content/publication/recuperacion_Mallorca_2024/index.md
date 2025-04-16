@@ -2,7 +2,6 @@
 title: "Integración de parcelas de inventario y de teledetección para modelizar la recuperación post-incendio de comunidades arbóreas mediterráneas"
 authors:
   - admin
-  - M. Rodrigues
   - J. de la Riva
   - D. Domingo
   - M.T. Lamelas
