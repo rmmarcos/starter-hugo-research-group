@@ -7,9 +7,12 @@ main:
   - name: About
     url: about
     weight: 20
+  - name: Results
+    url: https://visor.firepaths.org/
+    weight: 21
   - name: News
     url: post
-    weight: 20
+    weight: 25
   - name: People
     url: people
     weight: 30

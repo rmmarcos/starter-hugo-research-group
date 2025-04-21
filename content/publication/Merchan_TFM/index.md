@@ -4,7 +4,8 @@ authors:
   - Sergio Merchán García
   - admin
 date: 2023-06-30
-publication_types: ["3"]  # 3 = Thesis
+publication_types: ["0"]
+publication_short: "Master's Thesis"
 publication: "Trabajo Fin de Máster, Universidad de Zaragoza, Facultad de Filosofía y Letras"
 publication_short: "TFM, Univ. Zaragoza"
 abstract: |
