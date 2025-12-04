@@ -3,7 +3,7 @@ title: "Evaluación de la ocurrencia de incendios extremos en un contexto de cam
 authors:
   - Sergio Muñoz Monsalve
   - admin
-date: 2023-06-30
+date: 2025-09-01
 publication_types: ["0"]
 publication_short: "Master's Thesis"
 publication: "Trabajo Fin de Máster, Universidad de Zaragoza, Facultad de Filosofía y Letras"
